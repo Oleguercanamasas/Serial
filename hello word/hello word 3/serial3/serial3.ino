@@ -28,3 +28,5 @@ void loop()                 // run over and over again
 }
 
 //***************************** FUNCIONS *********************************
+El programa fa que s'inprimeixi el que hi ha escrit dins els perentesis 
+  entre les cometes i canvi de linia un cop per segon
