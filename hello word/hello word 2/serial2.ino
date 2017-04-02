@@ -28,3 +28,5 @@ void loop()
 
 
 //***************************** FUNCIONS *********************************
+El programa fa que s'inprimeixi el que hi ha escrit dins els perentesis 
+  entre les cometes cada segon
